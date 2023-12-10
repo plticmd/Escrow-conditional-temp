@@ -1,10 +1,10 @@
-npm install
+npm install/
 
-npm run dev
+npm run dev/
 
-(npm install react-router-dom)
+(npm install react-router-dom)/
 
-(npm install xumm xrpl)
+(npm install xumm xrpl)/
 
 
 # React + Vite
